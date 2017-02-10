@@ -1,0 +1,174 @@
+html{
+	    color: #666;
+    background-color: #eee;
+}
+#jiesuanbd{
+	width: 980px;
+    margin: 0 auto;
+    clear: both;
+    font: normal 12px/1.5 Verdana,simsun,Sans-Serif;
+    
+}
+.bdwraper{
+	    padding: 20px;
+    margin: 20px auto;
+    background-color: #fff;
+}
+.CartSteps{
+	    height: 80px;
+    margin-bottom: 10px;
+}
+.CartSteps h2{
+	    float: left;
+    width: 112px;
+    height: 80px;
+    text-indent: -999px;
+    overflow: hidden;
+	background: url(../img/pay/shopping-head.jpg) 0 0 no-repeat;
+}
+.CartSteps .sp-step{
+	    padding-top: 3px;
+    float: right;
+    margin-right: 10px;
+    display: inline;
+    background: url(../img/pay/shopping-head.jpg) -158px 5px no-repeat;
+}
+.CartSteps .sp-step span{
+	float: left;
+    vertical-align: top;
+    text-align: center;
+    font-family: "\5fae\8f6f\96c5\9ed1";
+    color: #999;
+}
+.CartSteps .clicktwo{
+	    width: 76px;
+}
+.CartSteps .sp-step span em{
+	    display: block;
+    padding-top: 20px;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 10px;
+    color: #ccc;
+    font-style: normal;
+    font-weight: 400;
+}
+.CartSteps span .arrow{
+	display: block;
+    overflow: hidden;
+    width: 0;
+    text-indent: -999px;
+}
+.CartSteps .clicktwo{
+	    width: 402px;
+}
+.CartSteps span.click-san{
+	font-size: 14px;
+    color: #e4004d;
+}
+.CartSteps span.click-san em{
+	    padding-top: 18px;
+    
+    color: #e4004d;
+}
+.Emptycart{
+	    min-height: 380px;
+    margin: 10px auto;
+}
+.SubmitSuccess{
+	    padding: 70px 0 40px 180px;
+    font-family: 微软雅黑;
+}
+.SubmitIco{
+	    float: left;
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    background: url(../img/pay/shopping-head.jpg)-705px 0;
+}
+.Submitdetails{
+	float: left;
+    min-height: 107px;
+    width: 560px;
+}
+.sub-info{
+	    height: 22px;
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #333;
+    padding-bottom: 8px;
+    font-family: 微软雅黑;
+}
+.Submitdetails p{
+	    height: auto;
+    line-height: 20px;
+}
+.buy{
+	color: #e5004f;
+    font-family: 宋体;
+}
+.Submitdetails h3{
+	    height: 28px;
+    font-size: 16px;
+    color: #333;
+    line-height: 28px;
+    font-weight: normal;
+    padding: 25px 0 40px 0;
+}
+.Submitdetails h3 b{
+	    padding-right: 45px;
+    font-weight: normal;
+}
+.Submitdetails h3 strong{
+	font-size: 28px;
+    color: #e5004f;
+}
+.Submitdetails a.c-lbtn{
+	    float: left;
+    height: 17px;
+    line-height: 18px;
+    font-size: 14px;
+    overflow: hidden;
+    margin-right: 80px;
+    color: #666;
+}
+a.c-btn.c-btn-big, a.c-lbtn.c-lbtn-big{
+	padding: 7px 16px 9px;
+}
+.Submitdetails .c-btn-big{
+	    margin-right: 30px;
+    float: left;
+    padding: 7px 30px 9px;
+}
+.c-lbtn.c-lbtn-big{
+	background-position: 0 -252px;
+}
+.c-btn.c-btn-big,.c-lbtn.c-lbtn-big{
+	    font-weight: 700;
+    height: 35px;
+}
+.c-lbtn{
+	    background-color: #fff;
+    border: 1px solid #e0e0e0;
+}
+.c-btn, .c-lbtn{
+	
+}
+.c-btn, .c-lbtn {
+    background: #525252 url(../img/pay/rpt.png) repeat-x 0 -155px;
+    color: #eee;
+    border: 1px solid #e0e0e0;
+    font-size: 14px;
+    line-height: 1;
+    cursor: pointer;
+    overflow: visible;
+    outline: none;
+}
+.c-btn:hover{
+	color: #fff;
+	background: #525252 url(../img/pay/rpt.png) repeat-x 0 -187px;
+}
+.c-lbtn:hover{
+	background-position: 0px -432px;
+}

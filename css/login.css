@@ -1,0 +1,266 @@
+body{
+	font: normal 12px/1.5 Verdana,simsun,Sans-Serif;
+}
+#hd{
+	    padding: 20px 0;
+    background-color: #fff;
+}
+.hdmain{
+	width: 1349px;
+	height: 76px;
+}
+.topmain{
+	width: 1190px;
+	height: 76px;
+	margin: auto;
+}
+.topmain a{
+	float: left;
+}
+.ilogo{
+	    float: left;
+    width: 124px;
+    height: 24px;
+    margin-left: 5px;
+        margin-top: 52px;
+    background: url(../img/header-login.png) 0 0 no-repeat;
+}
+.itips{
+	    float: right;
+    height: 76px;
+}
+.itips span{
+	    float: left;
+    height: 41px;
+    margin-top: 35px;
+    font-family: "\5fae\8f6f\96c5\9ed1";
+}
+.delivery{
+	width: 145px;
+    padding: 0 0 0 45px;
+    background:url(../img/footer-01.png) 0 -80px no-repeat;
+}
+.genuine{
+	    width: 130px;
+    padding: 0 0 0 48px;
+    background: url(../img/footer-01.png) 0 -154px no-repeat;
+}
+.freight{
+	    width: 110px;
+    border-right: none;
+    padding: 0 0 0 60px;
+    background: url(../img/footer-01.png) 0 -225px no-repeat;
+}
+.itips span strong{
+	    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.itips span strong i{
+	    font-style: normal;
+    color: #e5004f;
+}
+.itips span b{
+	    font-weight: 400;
+    color: #888;
+}
+
+#bd{
+	width: 1349px;
+	height: 570px;
+	    width: auto;
+    background-color: #f9f9f9;
+}
+.bdlogo{
+	width: 1190px;
+	height: 460px;
+    padding: 60px 0 50px;
+    margin: 0 auto;
+    position: relative;
+}
+.bdlf{
+	float: left;
+    width: 780px;
+    height: 460px;
+    overflow: hidden;
+    background-color: #fff;
+}
+.bdri{
+	    float: right;
+    width: 385px;
+    min-height: 460px;
+    border-radius: 3px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-color: #fff;
+}
+.ritop{
+	width: 386px;
+	height: 40px;
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.toplogo{
+	width: 386px;
+	height: 40px;
+	display: flex;
+}
+.toptab{
+	-webkit-box-flex: 1;
+    flex: 1;
+    position: relative;
+    height: 40px;
+    line-height: 39px;
+    font-size: 14px;
+    color: #999;
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+}
+.toptab b{
+	position: absolute;
+    width: 1px;
+    height: 20px;
+    right: 0;
+    top: 50%;
+    margin-top: -10px;
+    background: #d2d2d2;
+}
+.bot330{
+	width: 386px;
+	height: 330px;
+	background: #F3F3F3;
+}
+.ribottom{
+	width: 386px;
+	height: 222px;
+	position: absolute;
+	top: 60px;
+}
+.inp-wrap{
+	    position: relative;
+	width: 386px;
+    height: 61px;
+    line-height: 39px;
+    background: #fff;
+    border-top: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+        padding: 10px 18px;
+    box-sizing: border-box;
+}
+.inp-pass{
+	    position: relative;
+	width: 386px;
+    height: 61px;
+    line-height: 39px;
+    background: #fff;
+    border-bottom: 1px solid #d5d5d5;
+        padding: 10px 18px;
+    box-sizing: border-box;
+}
+
+.ribottom input{
+	    height: 30px;
+    line-height: 30px;
+    width: 80%;
+    font-size: 16px;
+    color: #666;
+    vertical-align: middle;
+        outline: none;
+}
+.ribottom img{
+	vertical-align: middle;
+    margin-right: 16px;
+    width: 25px;
+    height: 25px;
+}
+.login-button{
+	    margin: 10px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: #e5004f;
+    color: #fff;
+    cursor: pointer;
+}
+.login-reg{
+	width: 366px;
+	height: 30px;
+    margin: 10px;
+    position: absolute;
+    top: 242px;
+}
+
+.login-reg .forget-password{
+	    float: left;
+    font-size: 16px;
+    color: #999;
+    padding-left: 10px;
+}
+.register{
+	    font-size: 14px;
+	    text-align: right;
+}
+.login-reg a{
+	    display: block;
+    height: 30px;
+    line-height: 30px;
+    padding-right: 2px;
+    color: #e5004f;
+    cursor: pointer;
+}
+.cooperate{
+	width: 385px;
+	height: 43px;
+	padding: 23px 0;
+}
+.cooperate-ui{
+	    position: relative;
+    height: 24px;
+    text-align: center;
+    margin: 0 20px;
+}
+.cooperate-ui h3{
+	    position: relative;
+    z-index: 2;
+    display: inline-block;
+    height: 24px;
+    padding: 0 5px;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    background-color: #fff;
+    color: #999;
+}
+.cooperate-ui p {
+	    width: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    height: 1px;
+    overflow: hidden;
+    background-color: #ccc;
+}
+.cooperate-list{
+	clear: both;
+    line-height: 24px;
+    text-align: center;
+    color: #999;
+}
+.cooperate-list a{
+	    display: inline-block;
+    height: 20px;
+    margin: 0 5px;
+    color: #999;
+}
+
+

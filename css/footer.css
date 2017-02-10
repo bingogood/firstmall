@@ -1,0 +1,117 @@
+body{
+	font: normal 12px/1.5 Verdana,simsun,Sans-Serif;
+}
+footer{
+	padding-top: 30px;
+	width: 100%;
+	height: 282px;
+}
+.foot{
+	width: 1190px;
+	height: 282px;
+	margin: auto;
+}
+.itips{
+	width: 1188px;
+    height: 88px;
+    border: 1px solid #eee;
+        background-color: #f7f7f7;
+        margin: 0 auto;
+}
+.itips span{
+	    float: left;
+    border-right: 1px solid #eee;
+    font-family: "\5fae\8f6f\96c5\9ed1";
+}
+.service{
+	width: 282px;
+    height: 68px;
+    padding: 20px 0 0 45px
+}
+.itips .service strong{
+	display: inline-block;
+    padding: 0 20px 0 24px;
+    font-size: 20px;
+    font-family: Arial;
+    color: #e5004f;
+    background: url(../img/footer-01.png) 2px 0 no-repeat;
+}
+.itips .service i{
+	font-style: normal;
+	
+}
+.service b{
+padding-left: 24px;
+    font-size: 14px;
+    font-family: Arial;
+    background: url(../img/footer-01.png) 0 -28px no-repeat;
+        font-weight: 400;
+    color: #888;
+}
+.delivery{
+	    width: 186px;
+    height: 65px;
+    padding: 23px 0 0 100px;
+    background: url(../img/footer-01.png) 52px -56px no-repeat;
+}
+.itips strong{
+	    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+.itips strong i{
+	    font-style: normal;
+    color: #e5004f;
+}
+.itips b{
+	font-weight: 400;
+    color: #888;
+}
+.genuine{
+	    width: 182px;
+    height: 65px;
+    padding: 23px 0 0 104px;
+    background:url(../img/footer-01.png) 52px -132px no-repeat;
+}
+.freight{
+	width: 140px;
+    border-right: none;
+    height: 65px;
+    padding: 23px 0 0 115px;
+    background: url(../img/footer-01.png) 52px -203px no-repeat;
+}
+.ilinks{
+	text-align: center;
+    margin-bottom: 25px;
+        width: 1190px;
+    margin: 35px auto;
+}
+.ilinks a{
+	    margin: 10px;
+    color: #757575;
+}
+.copright{
+	    text-align: center;
+	        width: 1190px;
+    margin: auto;
+}
+.copright p{
+	    line-height: 22px;
+    color: #b2b2b2;
+}
+.copright p a{
+	    margin: 0 6px;
+    color: #b2b2b2;
+}
+.mark{
+	    width: 690px;
+	    height: 50px;
+	    margin-top: 10px;
+		margin-left: 504px;;
+}
+.mark a{
+	display: inline-block;
+    margin: 0 12px;
+    vertical-align: middle;
+}
